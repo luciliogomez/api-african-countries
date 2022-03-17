@@ -27,6 +27,7 @@
 * URL/       => esta é a rota base que retorna todos os paises
 
     Ex: rota: http://localhost/countries/
+        </br>
         retorno:
         <img src="./all.png">
 
@@ -35,6 +36,7 @@
 * URL/{pais} => esta é a rota que retorna um pais especificado no parametro {pais}.
 
     Ex: rota: http://localhost/countries/etiópia
+        </br>
         retorno:
         <img src="./one.png">
 ##
