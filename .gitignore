@@ -3,3 +3,5 @@
 
 !application/*/.env
 !.env
+
+vendor/
