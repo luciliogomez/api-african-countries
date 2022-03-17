@@ -14,7 +14,7 @@ require __DIR__."/vendor/autoload.php";
 
 Environment::load(__DIR__);
 
-define("URL","http://localhost/countries");
+define("URL","https://africancountries.herokuapp.com");
 
 
 MiddlewareQueue::setMap([
