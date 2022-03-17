@@ -1,0 +1,257 @@
+
+    [
+        {
+            "pais":"Angola",
+            "capital": "Luanda",
+            "populacao":"32.870.000",
+            "area" : "1.246.700 km²",
+            "idioma" : "Português",
+            "moeda"  : "Kwanza",
+            "independencia":"11/11/1975",
+            "presidente":"João Manuel Gonsalves Lourenço"
+        },
+        {
+            "pais": "Argélia",
+            "capital": "Argel",
+            "populacao":"40.400.000",
+            "area" : "2.381.741 km²",
+            "idioma" : "Árabe",
+            "moeda"  : "Dinar Argelino",
+            "independencia":"05/07/1962",
+            "presidente":"Abdelmadjid Tebboune"
+        },
+        {
+            "pais": "África do Sul",
+            "capital": "Pretória",
+            "populacao":"57.725.600",
+            "area" : "1.221.037 km²",
+            "idioma" : "Inglês",
+            "moeda"  : "Rand",
+            "independencia":"31/05/1961",
+            "presidente":"Cyril Ramaphosa"
+        },
+        {
+            "pais": "Benim",
+            "capital": "Porto Novo",
+            "populacao":"10.872.298",
+            "area" : "112.622 km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco CFA",
+            "independencia":"01/08/1960",
+            "presidente":"Patrice Talon"
+        },
+        {
+            "pais": "Botswana",
+            "capital": "Gaborone",
+            "populacao":"2.250.260",
+            "area" : "581.730 km²",
+            "idioma" : "Inglês",
+            "moeda"  : "Pula",
+            "independencia":"30/09/1966",
+            "presidente":"Mokgweetsi Masisi"
+        },
+        {
+            "pais": "Burkina Fasso",
+            "capital": "Uagadugu",
+            "populacao":"20.107.509",
+            "area" : "274.000 km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco CFA",
+            "independencia":"05/08/1960",
+            "presidente":"Paul-Henri Sandaogo Damiba"
+        },
+        {
+            "pais": "Burundi",
+            "capital": "Guitega",
+            "populacao":"12.006.000",
+            "area" : "27.834 km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco de Burundi (BIF)",
+            "independencia":"01/07/1962",
+            "presidente":"Evariste Ndayishimiye"
+        },
+        {
+            "pais": "Cabo Verde",
+            "capital": "Praia",
+            "populacao":"560.899",
+            "area" : "4.033 km²",
+            "idioma" : "Português",
+            "moeda"  : "Escudo Cabo Verdiano",
+            "independencia":"05/07/1975",
+            "presidente":"José Maria Neves"
+        },
+        {
+            "pais": "Camarões",
+            "capital": "Yaoundé",
+            "populacao":"23.739.218",
+            "area" : "475.442 km²",
+            "idioma" : "Inglês",
+            "moeda"  : "Franco CFA",
+            "independencia":"01/09/1961",
+            "presidente":"Paul Biya"
+        },
+        {
+            "pais": "Chade",
+            "capital": "Jamena",
+            "populacao":"14.152.314",
+            "area" : "1.284.000 km²",
+            "idioma" : "Francês",
+            "moeda"  : "ranco CFA",
+            "independencia":"11/08/1960",
+            "presidente":"Mahamat Déby Itno"
+        },
+        {
+            "pais": "Comores",
+            "capital": "Moroni",
+            "populacao":"806.153",
+            "area" : "1.862 km²",
+            "idioma" : "Árabe",
+            "moeda"  : "Franco comorense",
+            "independencia":"06/07/1975",
+            "presidente":"Azali Assoumani"
+        },
+        {
+            "pais": "República do Congo",
+            "capital": "Brazavile",
+            "populacao":"5.125.821 ",
+            "area" : "342.000 km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco CFA",
+            "independencia":"15/08/1960",
+            "presidente":"Denis Sassou-Nguesso"
+        },
+        {
+            "pais": "República Democrática do Congo",
+            "capital": "Quinxassa",
+            "populacao":"86.895.208",
+            "area" : "2.344.858 km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco congolês",
+            "independencia":"30/06/1960",
+            "presidente":"Félix Tshisekedi"
+        },
+        {
+            "pais": "Costa do Marfim",
+            "capital": "Iamussucro",
+            "populacao":"23.740.424",
+            "area" : "322.463 km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco CFA",
+            "independencia":"07/08/1960",
+            "presidente":"Alassane Ouattara"
+        },
+        {
+            "pais": "Djibuti",
+            "capital": "Djibuti",
+            "populacao":"810.179",
+            "area" : "23.200 km²",
+            "idioma" : "Árabe",
+            "moeda"  : "Franco djibutiano",
+            "independencia":"27/06/1977",
+            "presidente":"Ismaïl Omar Guelleh"
+        },
+        {
+            "pais": "Eritreia",
+            "capital": "Asmara",
+            "populacao":"4.954.645",
+            "area" : "121.320 km²",
+            "idioma" : "Inglês",
+            "moeda"  : "Nakfa",
+            "independencia":"24/05/1993",
+            "presidente":"Isaias Afewerki"
+        },
+        {
+            "pais": "Etiópia",
+            "capital": "Adis Abeba",
+            "populacao":"102.403.196",
+            "area" : "1.104.300 km²",
+            "idioma" : "Amárico",
+            "moeda"  : "Birr Etíope",
+            "independencia":"none",
+            "presidente":"Sahle-Work Zewde"
+        },
+        {
+            "pais": "Egito",
+            "capital": "Cairo",
+            "populacao":"92.798.900",
+            "area" : "1001450 km²",
+            "idioma" : "Árabe",
+            "moeda"  : "Libra egípcia ",
+            "independencia":"28/02/1922",
+            "presidente":"Abdul Fatah Khalil Al-Sisi"
+        },
+        {
+            "pais": "Gabão",
+            "capital": "Libreville",
+            "populacao":"2.119.275",
+            "area" : "267.668  km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco CFA",
+            "independencia":"17/08/1960",
+            "presidente":"Ali Bongo"
+        },
+        {
+            "pais": "Gâmbia",
+            "capital": "Banjul",
+            "populacao":"2.051.363",
+            "area" : "11.295  km²",
+            "idioma" : "Inglês",
+            "moeda"  : "Dalasi",
+            "independencia":"18/02/1965",
+            "presidente":"Adama Barrow"
+        },
+        {
+            "pais": "Gana",
+            "capital": "Acra",
+            "populacao":"28.308.301",
+            "area" : "238 533  km²",
+            "idioma" : "Inglês",
+            "moeda"  : "Cedi",
+            "independencia":"06/03/1957",
+            "presidente":"Nana Akufo-Addo"
+        },
+        {
+            "pais": "Guiné",
+            "capital": "Libreville",
+            "populacao":"2.119.275",
+            "area" : "267.668  km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco CFA",
+            "independencia":"17/08/1960",
+            "presidente":"Ali Bongo"
+        },
+        {
+            "pais": "Guiné Bissau",
+            "capital": "Libreville",
+            "populacao":"2.119.275",
+            "area" : "267.668  km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco CFA",
+            "independencia":"17/08/1960",
+            "presidente":"Ali Bongo"
+        },
+        {
+            "pais": "Guiné Equatorial",
+            "capital": "Libreville",
+            "populacao":"2.119.275",
+            "area" : "267.668  km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco CFA",
+            "independencia":"17/08/1960",
+            "presidente":"Ali Bongo"
+        },
+        {
+            "pais": "Gabão",
+            "capital": "Libreville",
+            "populacao":"2.119.275",
+            "area" : "267.668  km²",
+            "idioma" : "Francês",
+            "moeda"  : "Franco CFA",
+            "independencia":"17/08/1960",
+            "presidente":"Ali Bongo"
+        }
+
+
+
+
+    ]
