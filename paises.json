@@ -209,46 +209,6 @@
             "moeda"  : "Cedi",
             "independencia":"06/03/1957",
             "presidente":"Nana Akufo-Addo"
-        },
-        {
-            "pais": "Guiné",
-            "capital": "Libreville",
-            "populacao":"2.119.275",
-            "area" : "267.668  km²",
-            "idioma" : "Francês",
-            "moeda"  : "Franco CFA",
-            "independencia":"17/08/1960",
-            "presidente":"Ali Bongo"
-        },
-        {
-            "pais": "Guiné Bissau",
-            "capital": "Libreville",
-            "populacao":"2.119.275",
-            "area" : "267.668  km²",
-            "idioma" : "Francês",
-            "moeda"  : "Franco CFA",
-            "independencia":"17/08/1960",
-            "presidente":"Ali Bongo"
-        },
-        {
-            "pais": "Guiné Equatorial",
-            "capital": "Libreville",
-            "populacao":"2.119.275",
-            "area" : "267.668  km²",
-            "idioma" : "Francês",
-            "moeda"  : "Franco CFA",
-            "independencia":"17/08/1960",
-            "presidente":"Ali Bongo"
-        },
-        {
-            "pais": "Gabão",
-            "capital": "Libreville",
-            "populacao":"2.119.275",
-            "area" : "267.668  km²",
-            "idioma" : "Francês",
-            "moeda"  : "Franco CFA",
-            "independencia":"17/08/1960",
-            "presidente":"Ali Bongo"
         }
 
 
