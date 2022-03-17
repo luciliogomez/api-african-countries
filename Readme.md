@@ -1,36 +1,44 @@
-## MARKER - é um  pequeno sistema para marcação de presenças em várias turmas de estudantes. 
+## Esta é uma  pequena API para obtenção de algumas informações básicas de países africanos. 
 
-## Operações Possíveis:
-* Gestão de estudantes
-* Gestão de Turmas
-* Marcação de presença (ou ausência) de estudantes diariamente
-* Geração de relatório de faltas (em pdf)
-* Gestão de Utilizadores
+## Informações possíveis:
+* O nome do País
+* A capital do País
+* O presidente actual
+* A data da independência
+* A densidade populacional
+* A área geográfica
+* O idioma oficial
+* A moeda local
+* etc
 ##
 
-##  Layout do Projecto
+##  Detalhes do Projecto
 
-<br>
-
-<img src="./layout.png">
-
-## Tecnologias e Ferramentas de Desenvolvimento utilizadas:
+### Ferramentas de Desenvolvimento utilizadas:
 * PHP 7
-* Mysql
-* Html, Css, JavaScript, Biblioteca Frontend Materialize
-* Biblioteca <a href="https://packagist.org/packages/dompdf/dompdf" target="_blank">Dompdf</a>
 * Padrão de Desenvolvimento MVC
 ##
 
-## Requisitos
-* PHP >= 7.3
-* MySQL
+## Retorno da Informações
+* As informações são retornadas no formato json
 ##
 
-## Instruções de instalação:
-* Crie um banco de dados em localhost ou online
-* Importe o arquivo "marcacoes.sql" que está dentro da pasta Database para o banco que você criou.
-* Edite o arquivo de configuração de ambiente ".env" de acordo com o seu ambiente.
+## Rotas da API:
+* URL/       => esta é a rota base que retorna todos os paises
+
+    Ex: rota: http://localhost/countries/
+        retorno:
+        <img src="./all.png">
+
+</br>
+
+* URL/{pais} => esta é a rota que retorna um pais especificado no parametro {pais}.
+
+    Ex: rota: http://localhost/countries/etiópia
+        retorno:
+        <img src="./one.png">
 ##
 
-#### O Sistema é distribuído de forma gratuita, sendo o seu código livre para quaisquer alterações.
+## Link actual para as rotas.
+
+    URL = 
