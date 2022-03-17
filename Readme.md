@@ -28,7 +28,7 @@
 
     Ex: rota: http://localhost/countries/
         </br>
-        retorno:
+        retorno:</br>
         <img src="./all.png">
 
 </br>
@@ -37,7 +37,7 @@
 
     Ex: rota: http://localhost/countries/etiópia
         </br>
-        retorno:
+        retorno:</br>
         <img src="./one.png">
 ##
 
