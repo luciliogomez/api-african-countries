@@ -26,7 +26,7 @@
 ## Rotas da API:
 * URL/       => esta é a rota base que retorna todos os paises
 
-    Ex: rota: https://africacountries.herokuapp.com//
+    Ex: rota: https://africacountries.herokuapp.com/
         </br>
         retorno:</br>
         <img src="./all.png">
